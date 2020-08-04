@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/NoName0069/9843e9fd-4f16-4962-8386-a10268446a3b/bb2310e9-0d5b-4d6f-a5a3-90ca325ec46f/_apis/work/boardbadge/920c4b0a-e295-427f-8776-98e9419b2028)](https://dev.azure.com/NoName0069/9843e9fd-4f16-4962-8386-a10268446a3b/_boards/board/t/bb2310e9-0d5b-4d6f-a5a3-90ca325ec46f/Microsoft.RequirementCategory)
 # Android vendors, don't kill my app!
 
 ### [dontkillmyapp.com](https://dontkillmyapp.com)
